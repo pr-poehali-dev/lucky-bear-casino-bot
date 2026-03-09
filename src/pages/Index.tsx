@@ -521,9 +521,7 @@ export default function Index() {
             </div>
             <div className="text-xs text-muted-foreground">18+ | Играйте ответственно</div>
           </div>
-          <div className="mt-6 pt-6 border-t border-border/20 text-center text-xs text-muted-foreground">
-            © 2024 Lucky Bear Casino. Все права защищены. Азартные игры могут вызывать зависимость.
-          </div>
+          <div className="mt-6 pt-6 border-t border-border/20 text-center text-xs text-muted-foreground">© 2026 Lucky Bear Casino. Все права защищены. Азартные игры могут вызывать зависимость.</div>
         </div>
       </footer>
     </div>
